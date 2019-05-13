@@ -1,6 +1,12 @@
 
-nav{
+.jumbotron{
   font-family: 'Rock Salt', cursive;
   margin-bottom: 10px;
   text-align: center;
+  width:100%;
+ 
+}
+ul li{
+ list-style-type: none;
+
 }
