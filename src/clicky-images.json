@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Bart",
+      "image": " http://caracaschronicles.files.wordpress.com/2011/11/screen-shot-2010-08-13-at-9-30-14-am.png"
+     
+    },
+    {
+      "id": 2,
+      "name": "Homer",
+      "image": "https://pixel.nymag.com/imgs/daily/grub/2018/04/03/03-homer-simpson-doughnuts.w700.h700.jpg"
+     
+    },
+    {
+      "id": 3,
+      "name": "Maggie",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ec53b55-7738-4bbf-9420-9f7eb3d54d01/d1d15tk-b450c7bc-21b5-4a9c-a4f4-ecedece82295.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlYzUzYjU1LTc3MzgtNGJiZi05NDIwLTlmN2ViM2Q1NGQwMVwvZDFkMTV0ay1iNDUwYzdiYy0yMWI1LTRhOWMtYTRmNC1lY2VkZWNlODIyOTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tRIZjuEls9ns9HKFg8aHDXPgq9MCb29gYKyaYyLLXa4"
+      
+    },
+    {
+      "id": 4,
+      "name": "Lisa",
+      "image": "https://pbs.twimg.com/profile_images/378800000708068427/af28cea5e1bf7a44983f0a4f25160d70.png"
+     
+    },
+    {
+      "id": 5,
+      "name": "Marge",
+      "image": "https://nationalpostcom.files.wordpress.com/2015/05/celeb_roundtable_20150507_37848281.jpg"
+     
+    },
+    {
+      "id": 6,
+      "name": "Doris",
+      "image": "https://topicimages.mrowl.com/large/owl/thesimpsons/characters/lunchladydoris_1.jpg"
+     
+    },
+    {
+      "id": 7,
+      "name": "Ralph",
+      "image": "https://www.pyramidinternational.com/assets/img/products/WDC100401"
+     
+    },
+    {
+      "id": 8,
+      "name": "Milhouse",
+      "image": "https://i.pinimg.com/originals/9a/04/6a/9a046a280b341b1eedf334cbbbd7cdd6.gif"
+     
+    },
+    {
+      "id": 9,
+      "name": "Chief Wiggum",
+      "image": "https://topicimages.mrowl.com/large/owl/thesimpsons/characters/chiefwiggum_1.jpg"
+   
+    },
+    {
+      "id": 10,
+      "name": "Grandpa",
+      "image": "https://static.comicvine.com/uploads/scale_small/11/111746/6555842-tapped_out_unlock_grampa.png"
+    
+    },
+    {
+      "id": 11,
+      "name": "Duffman",
+      "image": "https://img.sharetv.com/shows/characters/large/the_simpsons.duffman.jpg"
+  
+    },
+    {
+      "id": 12,
+      "name": "Barney",
+      "image": "https://vignette.wikia.nocookie.net/scratchpad/images/b/b5/BarneyGumble.png/revision/latest?cb=20130313114535"
+    }
+  ]
+  
